@@ -191,7 +191,7 @@ carrie@ubuntu:0x01$ ./insert
 carrie@ubuntu:0x01$  
 ```
 ---
-## Authors
+## Author:
 
 * **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
 
