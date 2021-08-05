@@ -1,6 +1,9 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 """
-contains the Pascal's Triangle function
+Created on Mon Aug 4 08:00:12 2021
+
+@author: Robinson Montes
 """
 
 
