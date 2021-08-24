@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-""" Prime Game """
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug 23 18:23:42 2021
+
+@author: Robinson Montes
+"""
 
 
 def is_prime(n):
