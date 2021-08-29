@@ -131,4 +131,4 @@ alex@/tmp/sort$
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

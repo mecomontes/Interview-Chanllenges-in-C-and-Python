@@ -63,4 +63,4 @@ bob@dylan $
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

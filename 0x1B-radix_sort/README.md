@@ -94,4 +94,4 @@ Write a function that sorts an array of integers in ascending order using the [R
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

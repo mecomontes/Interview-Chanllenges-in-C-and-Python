@@ -165,4 +165,4 @@ alex@~/0x0E-linear_skip$
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

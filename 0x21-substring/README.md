@@ -78,4 +78,4 @@ alex@~/holbertonschool-interview_prep/0x21-substring$
 ---
 ## Author:
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

@@ -38,4 +38,4 @@ alexa@ubuntu:~/0x15-infinite_multiplication$
 ```
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

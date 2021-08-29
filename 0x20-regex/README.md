@@ -93,4 +93,4 @@ alex@~/holbertonschool-interview_prep/0x20-regex$
 ---
 ## Author:
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

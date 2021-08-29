@@ -51,5 +51,4 @@ carrie@ubuntu:~/0x00-lockboxes$
 ```
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

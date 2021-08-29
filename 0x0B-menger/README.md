@@ -82,4 +82,4 @@ alex@~/0x0B-menger$ ./0-menger 3
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

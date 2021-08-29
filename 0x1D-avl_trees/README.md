@@ -159,4 +159,4 @@ alex@/tmp/binary_trees$
 ---
 ## Author
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

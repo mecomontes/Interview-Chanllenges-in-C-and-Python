@@ -145,4 +145,4 @@ alexa@ubuntu:0x1A-double_circular_linked_list$
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

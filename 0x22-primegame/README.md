@@ -66,4 +66,4 @@ carrie@ubuntu:~/0x22-primegame$
 ---
 ## Author:
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

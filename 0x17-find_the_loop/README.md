@@ -143,4 +143,4 @@ And compile it with this command: $ gcc -Wall -pedantic -Werror -Wextra 0-main.c
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

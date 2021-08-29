@@ -82,4 +82,4 @@ alexa@ubuntu-xenial:0x18-merge_sort$
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

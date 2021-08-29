@@ -116,4 +116,4 @@ alex@~/0x0D-sorted_array_to_avl$
 ---
 ## Author
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

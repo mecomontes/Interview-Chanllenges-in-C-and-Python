@@ -28,7 +28,7 @@ carrie@ubuntu:~/0x19-making_change$ cat 0-main.py
 """
 Main file for testing
 """
-
+```
 makeChange = __import__('0-making_change').makeChange
 
 print(makeChange([1, 2, 25], 37))
@@ -45,4 +45,4 @@ carrie@ubuntu:~/0x19-making_change$
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

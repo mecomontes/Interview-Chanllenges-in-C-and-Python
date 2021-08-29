@@ -47,4 +47,4 @@ carrie@ubuntu:~/0x09-utf8_validation$
 ```
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

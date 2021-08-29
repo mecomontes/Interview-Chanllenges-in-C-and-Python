@@ -81,4 +81,4 @@ alexa@ubuntu:~/0x1E-wild_cmp$
 ---
 ## Author:
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)
